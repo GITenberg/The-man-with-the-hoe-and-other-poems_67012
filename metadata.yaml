@@ -1,0 +1,26 @@
+_repo: The-man-with-the-hoe-and-other-poems_67012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Markham, Edwin
+    alias: Markham, Charles Edwin
+    birthdate: 1852
+    deathdate: 1940
+    gutenberg_agent_id: '47913'
+    url: http://www.gutenberg.org/2009/agents/47913
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Markham
+description: ''
+gutenberg_issued: '2021-12-25'
+identifiers:
+  gutenberg: '67012'
+  lccn: '74234262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: The man with the hoe, and other poems
+url: http://www.gutenberg.org/ebooks/67012
