@@ -1,5 +1,8 @@
 _repo: The-man-with-the-hoe-and-other-poems_67012
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67012-h/images/cover.jpg
 creator:
   author:
     agent_name: Markham, Edwin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47913
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Markham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67012#The-man-with-the-hoe-and-other-poems
 gutenberg_issued: '2021-12-25'
 identifiers:
   gutenberg: '67012'
